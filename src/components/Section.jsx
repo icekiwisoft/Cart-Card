@@ -2,7 +2,11 @@ import React from 'react'
 
 const Section = () => {
   return (
-    <div>Section</div>
+    <>
+      <div className=' w-[20vw] h-screen bg-white '>
+
+      </div>
+    </>
   )
 }
 
